@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapWebService", "SoapWebService\SoapWebService.csproj", "{7E7AA857-BE57-4749-BAC1-1013D4A2E85E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapWebServiceConsumer", "SoapWebServiceConsumer\SoapWebServiceConsumer.csproj", "{86C5F0CD-AF47-464B-A9CD-1AD7C6A3473D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E7AA857-BE57-4749-BAC1-1013D4A2E85E} = {7E7AA857-BE57-4749-BAC1-1013D4A2E85E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapWSUnitTestProject", "SoapWSUnitTestProject\SoapWSUnitTestProject.csproj", "{8C777FBD-0F14-43BD-AD7E-13DB720DE253}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E7AA857-BE57-4749-BAC1-1013D4A2E85E} = {7E7AA857-BE57-4749-BAC1-1013D4A2E85E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7AA857-BE57-4749-BAC1-1013D4A2E85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7AA857-BE57-4749-BAC1-1013D4A2E85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7AA857-BE57-4749-BAC1-1013D4A2E85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7AA857-BE57-4749-BAC1-1013D4A2E85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C5F0CD-AF47-464B-A9CD-1AD7C6A3473D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C5F0CD-AF47-464B-A9CD-1AD7C6A3473D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C5F0CD-AF47-464B-A9CD-1AD7C6A3473D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C5F0CD-AF47-464B-A9CD-1AD7C6A3473D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C777FBD-0F14-43BD-AD7E-13DB720DE253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C777FBD-0F14-43BD-AD7E-13DB720DE253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C777FBD-0F14-43BD-AD7E-13DB720DE253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C777FBD-0F14-43BD-AD7E-13DB720DE253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

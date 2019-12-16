@@ -1,0 +1,9 @@
+C:\Users\somsom\Documents\Visual Studio 2015\Projects\SoapWebService\SoapWebServiceConsumer\bin\Debug\SoapWebServiceConsumer.exe.config
+C:\Users\somsom\Documents\Visual Studio 2015\Projects\SoapWebService\SoapWebServiceConsumer\bin\Debug\SoapWebServiceConsumer.exe
+C:\Users\somsom\Documents\Visual Studio 2015\Projects\SoapWebService\SoapWebServiceConsumer\bin\Debug\SoapWebServiceConsumer.pdb
+C:\Users\somsom\Documents\Visual Studio 2015\Projects\SoapWebService\SoapWebServiceConsumer\obj\Debug\SoapWebServiceConsumer.csprojResolveAssemblyReference.cache
+C:\Users\somsom\Documents\Visual Studio 2015\Projects\SoapWebService\SoapWebServiceConsumer\obj\Debug\SoapWebServiceConsumer.Form1.resources
+C:\Users\somsom\Documents\Visual Studio 2015\Projects\SoapWebService\SoapWebServiceConsumer\obj\Debug\SoapWebServiceConsumer.Properties.Resources.resources
+C:\Users\somsom\Documents\Visual Studio 2015\Projects\SoapWebService\SoapWebServiceConsumer\obj\Debug\SoapWebServiceConsumer.csproj.GenerateResource.Cache
+C:\Users\somsom\Documents\Visual Studio 2015\Projects\SoapWebService\SoapWebServiceConsumer\obj\Debug\SoapWebServiceConsumer.exe
+C:\Users\somsom\Documents\Visual Studio 2015\Projects\SoapWebService\SoapWebServiceConsumer\obj\Debug\SoapWebServiceConsumer.pdb
